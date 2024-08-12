@@ -1,5 +1,7 @@
 ## Many-to-many Splatting for Efficient Video Frame Interpolation (CVPR'22)
 
+## cupy bugfix to support CUDA 12.4 by Hyungon Ryu | NVAITC Korea 
+
 [Ping Hu](https://feinanshan.github.io/), [Simon Niklaus](https://sniklaus.com/), [Stan Sclaroff](http://www.cs.bu.edu/fac/sclaroff/), [Kate Saenko](http://ai.bu.edu/ksaenko.html)
 
 
